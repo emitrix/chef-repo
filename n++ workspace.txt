@@ -1,0 +1,62 @@
+<NotepadPlus>
+    <Project name="Chef-repo">
+        <Folder name=".chef">
+            <Folder name="syntaxcache">
+                <File name=".chef\syntaxcache\752892e592f42a9b5961a5298fbfa4c7bd3a3c8ae84ccf01a1b75d160efd7652" />
+                <File name=".chef\syntaxcache\e54ad22c87ffccb33a8756ff1927cb16f13706f2c53bcf9c0c9f2bc7870e8377" />
+            </Folder>
+            <File name=".chef\emitrix-validator.pem" />
+            <File name=".chef\emitrix.pem" />
+            <File name=".chef\knife.rb" />
+        </Folder>
+        <Folder name="cookbooks">
+            <Folder name="apache">
+                <Folder name="attributes" />
+                <Folder name="definitions" />
+                <Folder name="files">
+                    <Folder name="default">
+                        <File name="cookbooks\apache\files\default\index.html" />
+                    </Folder>
+                </Folder>
+                <Folder name="libraries" />
+                <Folder name="providers" />
+                <Folder name="recipes">
+                    <File name="cookbooks\apache\recipes\default.rb" />
+                </Folder>
+                <Folder name="resources" />
+                <Folder name="templates">
+                    <Folder name="default" />
+                </Folder>
+                <File name="cookbooks\apache\CHANGELOG.md" />
+                <File name="cookbooks\apache\metadata.rb" />
+                <File name="cookbooks\apache\README.md" />
+            </Folder>
+            <Folder name="starter">
+                <Folder name="attributes">
+                    <File name="cookbooks\starter\attributes\default.rb" />
+                </Folder>
+                <Folder name="files">
+                    <Folder name="default">
+                        <File name="cookbooks\starter\files\default\sample.txt" />
+                    </Folder>
+                </Folder>
+                <Folder name="recipes">
+                    <File name="cookbooks\starter\recipes\default.rb" />
+                </Folder>
+                <Folder name="templates">
+                    <Folder name="default">
+                        <File name="cookbooks\starter\templates\default\sample.erb" />
+                    </Folder>
+                </Folder>
+                <File name="cookbooks\starter\metadata.rb" />
+            </Folder>
+            <File name="cookbooks\chefignore" />
+        </Folder>
+        <Folder name="roles">
+            <File name="roles\starter.rb" />
+        </Folder>
+        <File name=".gitignore" />
+        <File name=".zedstate" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>

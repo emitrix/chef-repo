@@ -1,0 +1,14 @@
+Student	VM Name	Server IP	User Name	Password
+c.aguilar.rodriguez@accenture.com trainee-1	54.164.119.76	trainee-1	trainee-1-038102
+chetan.chokshi@accenture.com trainee-2	52.91.233.51	trainee-2	trainee-2-dace2b
+ramesh.eggadi@accenture.com trainee-3	54.164.70.119	trainee-3	trainee-3-f23937
+ziad.fayyad@accenture.com trainee-4	52.90.10.198	trainee-4	trainee-4-3345da
+venketraman.ganesan@accenture.com trainee-5	54.174.65.36	trainee-5	trainee-5-23cf02
+jaime.gaona@accenture.com trainee-6	54.152.0.57	trainee-6	trainee-6-48317e
+mohit.x.garg@accenture.com trainee-7	54.172.35.242	trainee-7	trainee-7-97177b
+bobby.b.mathew@accenture.com trainee-8	54.86.216.164	trainee-8	trainee-8-9d0307
+aseem.mittal@accenture.com trainee-9	54.175.5.91	trainee-9	trainee-9-66895d
+ashish.mujumdar@accenture.com trainee-10	52.90.10.120	trainee-10	trainee-10-a444fe
+jorge.narvaez.castro@accenture.com trainee-11	52.90.20.199	trainee-11	trainee-11-512d96
+bharat.shah@accenture.com trainee-12	54.209.160.211	trainee-12	trainee-12-0806a1
+
